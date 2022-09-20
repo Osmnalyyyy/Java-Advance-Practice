@@ -1,4 +1,4 @@
-//OCA trick = ayni dosya icinde birden fazla create edilen non-inner class lari
+package generics;//OCA trick = ayni dosya icinde birden fazla create edilen non-inner class lari
 // JVM compile ederken
 // sadece main class public olarak tanimlar. diger class lar dan herhangi biri de
 // public olursa CTE veriri

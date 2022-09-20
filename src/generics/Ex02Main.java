@@ -1,3 +1,5 @@
+package generics;
+
 public class Ex02Main {
 
     public static void main(String[] args) {

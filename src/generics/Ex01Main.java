@@ -1,3 +1,5 @@
+package generics;
+
 public class Ex01Main {
     public static void main(String[] args) {
         //1 Aylar enum create edin
@@ -12,7 +14,7 @@ public class Ex01Main {
 }
 
 enum Aylar {
-    OCAK, SUBAT, MART, NISAN, MAYIS, HAZİRAN, TEMMUZ, AGUSTOS, EYLUL, EKIM, KASIM, ARALIK, Aylar;
+    OCAK, SUBAT, MART, NISAN, MAYIS, HAZIRAN, TEMMUZ, AGUSTOS, EYLUL, EKIM, KASIM, ARALIK;
 
     Aylar() {
 

@@ -1,3 +1,5 @@
+package generics;
+
 public class G04genericClass {
     //T type parametrik class declaration yapalim <T> yaptin mi yeterli
     //1 bu class i generic yapiniz

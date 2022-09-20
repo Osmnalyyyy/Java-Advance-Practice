@@ -1,3 +1,5 @@
+package generics;
+
 public class G06doubleParameterGenerics {
     public static void main(String[] args) {
         //1 iki pm li generic class create din
@@ -11,8 +13,11 @@ public class G06doubleParameterGenerics {
         obj3.setId((byte) 12);
         obj1.setName("osman");
         obj2.setName(25);
-        obj3.setName(15);
+        obj3.setName(165);
 
+        System.out.println(obj1.getId()+" "+obj1.getName());
+        System.out.println(obj2.getId()+" "+obj2.getName());
+        System.out.println(obj3.getId()+" "+obj3.getName());
     }
 }
 

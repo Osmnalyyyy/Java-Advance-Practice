@@ -1,3 +1,5 @@
+package generics;
+
 import java.util.Arrays;
 
 public class G05genericClasses {//non generic main class
